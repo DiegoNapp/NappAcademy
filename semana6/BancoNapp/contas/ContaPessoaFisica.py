@@ -1,6 +1,7 @@
 from BancoNapp.contas.Conta import Conta
 
 
+
 class ContaPessoaFisica(Conta):
     """
     Classe representa a conta corrente de pessoa física.
