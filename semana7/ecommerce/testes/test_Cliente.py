@@ -1,6 +1,5 @@
 from ecommerce.classes.Cliente import Cliente
 
-
 class TestCliente:
     def test_class_declared(self):
         objeto = Cliente('John Doe')

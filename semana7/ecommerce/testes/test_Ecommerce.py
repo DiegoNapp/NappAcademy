@@ -2,7 +2,6 @@ from ecommerce.classes.Ecommerce import Loja
 from ecommerce.classes.Cliente import Cliente
 from ecommerce.classes.Pedido import Pedido
 
-
 class TestEcommerce:
     def test_class_declared(self):
         objeto = Loja('Lojão Tabajara')
