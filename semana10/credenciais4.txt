@@ -1,0 +1,3 @@
+algoritmo==>csv
+arquivo==>integrador/dados/arquivo1.csv
+
