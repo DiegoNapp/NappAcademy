@@ -3,7 +3,6 @@ from integrador.classes.Estrategias import Estrategia_SQLite
 from integrador.classes.Estrategias import Estrategia_CSV
 import pytest
 
-
 class TestEstrategias:
     def test_instanciar_classe_abstrata(self):
         msg_erro = "Can't instantiate abstract class Estrategia with abstract"

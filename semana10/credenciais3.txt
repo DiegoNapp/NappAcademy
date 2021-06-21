@@ -1,3 +1,4 @@
 algoritmo==>SQLite
 arquivo==>integrador/dados/arquivo1.csv
 
+

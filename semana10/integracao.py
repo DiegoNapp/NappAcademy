@@ -17,7 +17,6 @@ def carregar_credenciais(arquivo):
         raise FileNotFoundError('Arquivo não encontrado: ' + arquivo)
     return credenciais
 
-
 if __name__ == "__main__":
     arquivos = []
     arquivos += ['credenciais1.txt', 'credenciais2.txt']

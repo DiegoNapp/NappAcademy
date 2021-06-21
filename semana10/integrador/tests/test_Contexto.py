@@ -2,7 +2,6 @@ from integrador.classes.Contexto import Contexto
 from integrador.classes.Estrategias import Estrategia
 import pytest
 
-
 class TestContexto:
     def test_instanciar_objeto_ok(self):
         dicionario = {'algoritmo': 'csv',

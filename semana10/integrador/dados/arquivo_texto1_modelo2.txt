@@ -1,7 +1,7 @@
 Arquivo TXT com os dados
 *******************************************************
 DATA			 PRODUTO 			 TOTAL 
-2021-03-20        Produto 2       524.17
+2021-03-20        Produto 2       524.17 
 2021-03-20        Produto 9       330.99
 2021-03-20        Produto 12       1124.43
 2021-03-20        Produto 10       1654.12

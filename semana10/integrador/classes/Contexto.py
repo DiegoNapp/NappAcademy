@@ -7,7 +7,6 @@ estrategias = {
     'sqlite': Estrategia_SQLite(),
 }
 
-
 class Contexto():
     """
     Contexto do integrador

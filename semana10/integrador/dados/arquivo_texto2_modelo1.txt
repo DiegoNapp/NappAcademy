@@ -1,6 +1,6 @@
 Arquivo TXT com os dados
 **********************************************************************
-DATA			 QTD t	 VALOR 		 TOTAL 			 PRODUTO 
+DATA			 QTD t	 VALOR 		 TOTAL 			 PRODUTO  
 2021-03-20        9       38.67       348.01        Produto 7
 2021-03-20        18       7.38       132.91        Produto 6
 2021-03-20        8       46.88       375.01        Produto 7

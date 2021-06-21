@@ -3,7 +3,6 @@ from contextlib import closing
 import sqlite3
 import csv
 
-
 class Estrategia(ABC):
     """
     Classe Base para as estratégias (algoritmos)

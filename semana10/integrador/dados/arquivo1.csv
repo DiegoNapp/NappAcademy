@@ -1,4 +1,4 @@
-id,produto,quantidade,valor,total,vendido_em
+id,produto,quantidade,valor,total,vendido_em 
 1,Produto 2,9,58.24,524.17,2021-03-20
 2,Produto 9,11,30.09,330.99,2021-03-20
 3,Produto 12,25,44.98,1124.43,2021-03-20

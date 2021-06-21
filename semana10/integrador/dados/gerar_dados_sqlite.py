@@ -4,6 +4,7 @@ from random import randrange, uniform, choice
 conn = sqlite3.connect('banco1.db')
 cursor = conn.cursor()
 
+
 cursor.execute("""
 CREATE TABLE vendas (
     id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
